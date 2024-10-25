@@ -1,5 +1,5 @@
-# Chalenge 1 - Make a bank system using Python
-First chalenge of DIO Bootcamp with NTT Data
+# Challenge 1 - Make a bank system using Python
+First challenge of DIO Bootcamp with NTT Data
 
 ## The Rules:
 
